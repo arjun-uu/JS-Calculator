@@ -19,7 +19,8 @@ A simple and interactive **calculator** built with **HTML, CSS, and JavaScript**
 
 ## 🚀 Live Demo
 Check out the live demo here:  
-[Live Demo](https://arjun-uu.github.io/JS-Calculator/)  <!-- Replace with your actual link -->
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://arjun-uu.github.io/JS-Calculator/)
+
 
 
 ## 📂 Project Structure
