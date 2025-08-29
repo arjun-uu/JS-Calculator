@@ -18,17 +18,8 @@ A simple and interactive **calculator** built with **HTML, CSS, and JavaScript**
 - JavaScript (ES6) for interactivity
 
 ## 🚀 Live Demo
-
 Check out the live demo here:  
-## 🚀 Live Demo
-
-<a href="https://arjun-uu.github.io/JS-Calculator/" target="_blank" 
-   style="display:inline-block; background: linear-gradient(90deg, #667eea, #764ba2); 
-          color: white; padding: 10px 25px; border-radius: 8px; font-weight: 600; 
-          text-decoration: none; font-family: sans-serif; transition: 0.3s;">
-   🔗 Live Demo
-</a>
-
+[Live Demo](https://arjun-uu.github.io/JS-Calculator/)  <!-- Replace with your actual link -->
 
 
 ## 📂 Project Structure
