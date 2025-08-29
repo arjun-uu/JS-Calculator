@@ -19,6 +19,14 @@ A simple and interactive **calculator** built with **HTML, CSS, and JavaScript**
 
 ## 🚀 Live Demo
 
+<a href="https://arjun-uu.github.io/JS-Calculator/" target="_blank" 
+   style="display:inline-block; background-color:#4CAF50; color:white; 
+          padding:10px 20px; text-align:center; text-decoration:none; 
+          border-radius:5px; font-weight:bold;">
+   Live Demo
+</a>
+
+
 Check out the live demo here:  
 [Live Demo](https://arjun-uu.github.io/JS-Calculator/)  <!-- Replace with your actual link -->
 
